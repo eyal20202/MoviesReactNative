@@ -1,0 +1,4 @@
+#Tue Jun 02 11:30:22 IDT 2020
+base.0=C\:\\Users\\eyal2\\Downloads\\Compressed\\MoviesReactNativeTest-master\\android\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

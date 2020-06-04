@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">669674879745-nrtepukpct1p8l0e264d89c8gubuhark.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://crypto-hallway-244613.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">669674879745</string>
+    <string name="google_api_key" translatable="false">AIzaSyCHYTkmBxNOVjC01oKGRECpwUK37J8E7Xc</string>
+    <string name="google_app_id" translatable="false">1:669674879745:android:f48056bc055ae51249b900</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCHYTkmBxNOVjC01oKGRECpwUK37J8E7Xc</string>
+    <string name="google_storage_bucket" translatable="false">crypto-hallway-244613.appspot.com</string>
+    <string name="project_id" translatable="false">crypto-hallway-244613</string>
+</resources>

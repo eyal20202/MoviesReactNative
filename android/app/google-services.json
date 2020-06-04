@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "669674879745",
+    "firebase_url": "https://crypto-hallway-244613.firebaseio.com",
+    "project_id": "crypto-hallway-244613",
+    "storage_bucket": "crypto-hallway-244613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669674879745:android:f48056bc055ae51249b900",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669674879745-59j3tlepj9re5e8ug5a2g0bn9el3bvdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesomeproject",
+            "certificate_hash": "6c02502f4e7538f80588f20004b46e66c051cac9"
+          }
+        },
+        {
+          "client_id": "669674879745-nrtepukpct1p8l0e264d89c8gubuhark.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHYTkmBxNOVjC01oKGRECpwUK37J8E7Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669674879745-nrtepukpct1p8l0e264d89c8gubuhark.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
